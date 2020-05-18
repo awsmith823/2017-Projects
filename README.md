@@ -1,13 +1,21 @@
-# First Few Python Projects
+# DATA SCIENCE PROJECTS
 
-**Telecomm Customer Churn**
-* https://nbviewer.jupyter.org/github/awsmith823/2017-Projects/blob/master/IBM%20Telco.ipynb
+### CHEMBOX
+Extract (chemical name, formula, property-value-unit) from XML file
+* Data Wrangling | Regex | Python
 
-**Energy Disaggregation using FHMM link:**
-* https://nbviewer.jupyter.org/github/awsmith823/2017-Projects/blob/master/FHMM%20Project.ipynb
+### CEMENT
+Predict compressive strength of a concrete mixture
+* Physical Sciences | Regression | SQL / Python
 
-**NFL WR Cluster Analysis link:**
-* https://nbviewer.jupyter.org/github/awsmith823/2017-Projects/blob/master/NFL%20WR%20Clusters/NFL%20Wide%20Receivers%202017.ipynb
+### ENERGY DISAGGREGATION USING F-HMM
+_Non-Intrusive Load Monitoring (NILM) / Appliance Level Load Monitoring_
+Modeling energy consumption assuming a morkov process
+* Energy Data | HMM | Time-series | Supervised Learning | Python
 
-**Additional Projects (Folder: Python Practice)**
-* These projects are a combination of exploratory analysis, machine learning, and web scraping
+### NFL WR CLUSTERS
+Determining how to match elite WR production with a combination of lower level / cheaper talent
+* Web Scraping | Clustering | Python
+
+### CUSTOMER CHURN
+* Telecom Data | Classification | Python
