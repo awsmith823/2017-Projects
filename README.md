@@ -4,6 +4,10 @@
 Extract (chemical name, formula, property-value-unit) from XML file
 * Data Wrangling | Regex | Python
 
+### DRUG REVIEW
+Predict review ratings of pharmacy drugs
+* NLP | Classification | Python
+
 ### CEMENT
 Predict compressive strength of a concrete mixture
 * Physical Sciences | Regression | SQL / Python
