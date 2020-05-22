@@ -1,0 +1,806 @@
+ADHD
+AIDS Related Wasting
+AV Heart Block
+Abdominal Distension
+Abnormal Uterine Bleeding
+Abortion
+Acetaminophen Overdose
+Acne
+Actinic Keratosis
+Acute Coronary Syndrome
+Acute Lymphoblastic Leukemia
+Acute Nonlymphocytic Leukemia
+Acute Promyelocytic Leukemia
+Addison s Disease
+Adrenocortical Insufficiency
+Adult Human Growth Hormone Deficiency
+Aggressive Behavi
+Agitated State
+Agitation
+Alcohol Dependence
+Alcohol Withdrawal
+Allergic Reactions
+Allergic Rhinitis
+Allergic Urticaria
+Allergies
+Alopecia
+Alpha Proteinase Inhibitor Deficiency
+Alzheimer s Disease
+Amebiasis
+Amenorrhea
+Amyotrophic Lateral Sclerosis
+Anal Fissure and Fistula
+Anal Itching
+Anaphylaxis
+Anaplastic Astrocytoma
+Anaplastic Oligodendroglioma
+Androgenetic Alopecia
+Anemia
+Anemia Associated with Chronic Renal Failure
+Anemia Chemotherapy Induced
+Anemia Sickle Cell
+Anesthesia
+Anesthetic Adjunct
+Angina
+Angina Pectoris Prophylaxis
+Angioedema
+Ankylosing Spondylitis
+Anorexia
+Anorexia Feeding Problems
+Anthrax
+Anti NMDA Receptor Encephalitis
+Antiphospholipid Syndrome
+Anxiety
+Anxiety and Stress
+Aphthous Ulce
+Arrhythmia
+Ascariasis
+Asperger Syndrome
+Aspergillosis Aspergilloma
+Aspiration Pneumonia
+Asthma
+Asthma Maintenance
+Asthma acute
+Asystole
+Atherosclerosis
+Atopic Dermatitis
+Atrial Fibrillation
+Atrial Flutte
+Atrophic Urethritis
+Atrophic Vaginitis
+Auditory Processing Disorde
+Autism
+Autoimmune Hemolytic Anemia
+Autoimmune Hepatitis
+Avian Influenza
+B Nutritional Deficiency
+Babesiosis
+Back Pain
+Bacterial Endocarditis Prevention
+Bacterial Infection
+Bacterial Skin Infection
+Bacterial Vaginitis
+Barrett s Esophagus
+Bartonellosis
+Basal Cell Carcinoma
+Behcet s Disease
+Benign Essential Trem
+Benign Prostatic Hyperplasia
+Benzodiazepine Withdrawal
+Biliary Cirrhosis
+Binge Eating Disorde
+Bipolar Disorde
+Birth Control
+Bladder Infection
+Bleeding Disorde
+Blepharitis
+Body Dysmorphic Disorde
+Body Imaging
+Bone infection
+Borderline Personality Disorde
+Bowel Preparation
+Brain Tum
+Breakthrough Pain
+Breast Cance
+Breast Cancer Adjuvant
+Breast Cancer Metastatic
+Breast Cancer Palliative
+Breast Cancer Prevention
+Bronchiectasis
+Bronchitis
+Bronchospasm Prophylaxis
+Bulimia
+Bullous Pemphigoid
+Burning Mouth Syndrome
+Burns External
+Bursitis
+CMV Prophylaxis
+CNS Magnetic Resonance Imaging
+COPD
+COPD Acute
+COPD Maintenance
+Cachexia
+Campylobacter Gastroenteritis
+Cance
+Candida Urinary Tract Infection
+Candidemia
+Carcinoid Tum
+Cardiovascular Risk Reduction
+Cataplexy
+Cerebral Edema
+Cerebral Spasticity
+Cerebrovascular Insufficiency
+Cervical Dystonia
+Chlamydia Infection
+Cholera
+Chronic Eosinophilic Leukemia
+Chronic Fatigue Syndrome
+Chronic Idiopathic Constipation
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+Chronic Lymphocytic Leukemia
+Chronic Myelogenous Leukemia
+Chronic Myofascial Pain
+Chronic Pain
+Chronic Pancreatitis
+Chronic Spasticity
+Clostridial Infection
+Cluster Headaches
+Cluster Tic Syndrome
+Coccidioidomycosis
+Cogan s Syndrome
+Cold Sores
+Cold Symptoms
+Colorectal Cance
+Computed Tomography
+Condition Unknown
+Condylomata Acuminata
+Conjunctivitis
+Conjunctivitis Allergic
+Conjunctivitis Bacterial
+Constipation
+Constipation Acute
+Constipation Chronic
+Constipation Drug Induced
+Corneal Ulce
+Coronary Artery Disease
+Costochondritis
+Cough
+Cough and Nasal Congestion
+Crohn s Disease
+Crohn s Disease Acute
+Crohn s Disease Maintenance
+Croup
+Cutaneous Candidiasis
+Cutaneous Larva Migrans
+Cutaneous T cell Lymphoma
+Cyclic Vomiting Syndrome
+Cyclitis
+Cyclothymic Disorde
+Cystic Fibrosis
+Dandruff
+Deep Neck Infection
+Deep Vein Thrombosis
+Deep Vein Thrombosis First Event
+Deep Vein Thrombosis Prophylaxis
+Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery
+Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery
+Deep Vein Thrombosis Recurrent Event
+Delayed Puberty Male
+Dementia
+Dental Abscess
+Depression
+Dercum s Disease
+Dermatitis
+Dermatitis Herpeti
+Dermatitis Herpetiformis
+Dermatologic Lesion
+Dermatological Disorders
+Dermatomyositis
+Dermatophytosis
+Diabetes Insipidus
+Diabetes Type
+Diabetic Kidney Disease
+Diabetic Macular Edema
+Diabetic Peripheral Neuropathy
+Diagnosis and Investigation
+Diagnostic Bronchograms
+Diaper Rash
+Diarrhea
+Diarrhea Acute
+Diarrhea Chronic
+Dientamoeba fragilis
+Dietary Fiber Supplementation
+Dietary Supplementation
+Dissociative Identity Disorde
+Diverticulitis
+Dry Eye Disease
+Dry Skin
+Dumping Syndrome
+Duodenal Ulce
+Duodenal Ulcer Prophylaxis
+Dupuytren s contracture
+Dysautonomia
+Dyspareunia
+Dystonia
+Dysuria
+Ear Wax Impaction
+Ectopic Pregnancy
+Eczema
+Edema
+Ehrlichiosis
+Emergency Contraception
+Endometrial Cance
+Endometrial Hyperplasia
+Endometrial Hyperplasia Prophylaxis
+Endometriosis
+Endoscopy or Radiology Premedication
+Enterocolitis
+Eosinophilic Esophagitis
+Epicondylitis Tennis Elbow
+Epididymitis Sexually Transmitted
+Epilepsy
+Erectile Dysfunction
+Erosive Esophagitis
+Esophageal Candidiasis
+Esophageal Spasm
+Esophageal Variceal Hemorrhage Prophylaxis
+Euvolemic Hyponatremia
+Expectoration
+Extrapyramidal Reaction
+Eye Redness
+Eye Redness Itching
+Eyelash Hypotrichosis
+GERD
+Gallbladder Disease
+Gastric Cance
+Gastric Ulcer Maintenance Treatment
+Gastritis Duodenitis
+Gastroenteritis
+Gastrointestinal Decontamination
+Gastrointestinal Stromal Tum
+Gastroparesis
+Gaucher Disease
+Gender Dysphoria
+Generalized Anxiety Disorde
+Gestational Diabetes
+Giant Cell Tumor of Bone
+Giardiasis
+Gingivitis
+Glaucoma
+Glaucoma Intraocular Hypertension
+Glaucoma Open Angle
+Glioblastoma Multi
+Glioblastoma Multiforme
+Gonadotropin Inhibition
+Gonococcal Infection Disseminated
+Gonococcal Infection Uncomplicated
+Gout
+Gout Acute
+Gout Prophylaxis
+Gouty Arthritis
+Granuloma Annulare
+HIV Infection
+Hairy Cell Leukemia
+Hashimoto s disease
+Head Injury
+Head Lice
+Head and Neck Cance
+Headache
+Heart Attack
+Heart Failure
+Helicobacter Pylori Infection
+Hemangioma
+Hemophilia A
+Hemophilia B
+Hemorrhoids
+Hepatic Encephalopathy
+Hepatic Tum
+Hepatitis B
+Hepatitis B Prevention
+Hepatitis C
+Hepatocellular Carcinoma
+Herbal Supplementation
+Hereditary Angioedema
+Herpes Simplex
+Herpes Simplex Dendritic Keratitis
+Herpes Simplex Mucocutaneous Immunocompetent Host
+Herpes Simplex Mucocutaneous Immunocompromised Host
+Herpes Simplex Suppression
+Herpes Zoste
+Herpes Zoster Prophylaxis
+Hiccups
+Hidradenitis Suppurativa
+High Blood Pressure
+High Cholesterol
+High Cholesterol Familial Heterozygous
+High Cholesterol Familial Homozygous
+Hirsutism
+Histoplasmosis
+Hodgkin s Lymphoma
+Hot Flashes
+Human Papilloma Virus
+Human Papillomavirus Prophylaxis
+Hydrocephalus
+Hyperbilirubinemia
+Hypercalcemia
+Hypercalcemia of Malignancy
+Hyperekplexia
+Hyperhidrosis
+Hyperkalemia
+Hyperlipoproteinemia
+Hyperlipoproteinemia Type III Elevated beta VLDL IDL
+Hyperlipoproteinemia Type IIa Elevated LDL
+Hyperlipoproteinemia Type IV Elevated VLDL
+Hyperparathyroidism Secondary to Renal Impairment
+Hyperphosphatemia
+Hyperphosphatemia of Renal Failure
+Hyperprolactinemia
+Hypersomnia
+Hypertensive Emergency
+Hyperthyroidism
+Hypertriglyceridemia
+Hyperuricemia Secondary to Chemotherapy
+Hypoactive Sexual Desire Disorde
+Hypocalcemia
+Hypodermoclysis
+Hypoestrogenism
+Hypoglycemia
+Hypogonadism Male
+Hypokalemia
+Hypokalemic Periodic Paralysis
+Hypomagnesemia
+Hypoparathyroidism
+Hypopituitarism
+Hypotension
+Hypothyroidism After Thyroid Removal
+ICU Agitation
+Ichthyosis
+Idiopathic Thrombocytopenic Purpura
+Immunosuppression
+Impetig
+Indigestion
+Infection Prophylaxis
+Infectious Diarrhea
+Inflammatory Bowel Disease
+Inflammatory Conditions
+Influenza
+Influenza Prophylaxis
+Insomnia
+Insomnia Stimulant Associated
+Insulin Resistance Syndrome
+Intermittent Claudication
+Intermittent Explosive Disorde
+Interstitial Cystitis
+Intraabdominal Infection
+Intraocular Hypertension
+Iritis
+Iron Deficiency Anemia
+Irritable Bowel Syndrome
+Ischemic Stroke
+Ischemic Stroke Prophylaxis
+Joint Infection
+Juvenile Idiopathic Arthritis
+Juvenile Rheumatoid Arthritis
+Keratitis
+Keratoconjunctivitis Sicca
+Keratosis
+Kidney Infections
+Klinefelter Syndrome
+Labor Induction
+Labor Pain
+Lactation Augmentation
+Lactose Intolerance
+Left Ventricular Dysfunction
+Legionella Pneumonia
+Lennox Gastaut Syndrome
+Leukemia
+Leukocytoclastic Vasculitis
+Lewy Body Dementia
+Lichen Planus
+Lichen Sclerosus
+Light Anesthesia
+Light Sedation
+Linear IgA Disease
+Lipodystrophy
+Liver Magnetic Resonance Imaging
+Local Anesthesia
+Lyme Disease
+Lyme Disease Arthritis
+Lyme Disease Neurologic
+Lymphocytic Colitis
+Lymphoma
+Macular Degeneration
+Macular Edema
+Major Depressive Disorde
+Malaria
+Malaria Prevention
+Malignant Glioma
+Mania
+Manscaping Pain
+Melanoma
+Melanoma Metastatic
+Melasma
+Meniere s Disease
+Meningitis
+Meningitis Meningococcal
+Meningococcal Meningitis Prophylaxis
+Menopausal Disorders
+Menorrhagia
+Menstrual Disorders
+Methicillin Resistant Staphylococcus Aureus Infection
+Microscopic polyangiitis
+Migraine
+Migraine Prevention
+Mild Cognitive Impairment
+Mitral Valve Prolapse
+Mixed Connective Tissue Disease
+Mononucleosis
+Motion Sickness
+Mountain Sickness Altitude Sickness
+Mucositis
+Multiple Endocrine Adenomas
+Multiple Myeloma
+Multiple Sclerosis
+Mumps Prophylaxis
+Muscle Pain
+Muscle Spasm
+Muscle Twitching
+Myasthenia Gravis
+Mycobacterium avium intracellulare Treatment
+Mycoplasma Pneumonia
+Myelodysplastic Syndrome
+Myelofibrosis
+Myeloproliferative Disorders
+Myxedema Coma
+NSAID Induced Gastric Ulce
+NSAID Induced Ulcer Prophylaxis
+Narcolepsy
+Nasal Carriage of Staphylococcus aureus
+Nasal Congestion
+Nasal Polyps
+Nausea Vomiting
+Nausea Vomiting Chemotherapy Induced
+Nausea Vomiting Postoperative
+Nausea Vomiting Radiation Induced
+Nausea Vomiting of Pregnancy
+Neck Pain
+Neoplastic Diseases
+Nephrocalcinosis
+Nephrotic Syndrome
+Neuralgia
+Neuritis
+Neuropathic Pain
+Neurosis
+Neurosurgery
+Neurotic Depression
+Neutropenia
+Neutropenia Associated with Chemotherapy
+New Daily Persistent Headache
+Niacin Deficiency
+Night Terrors
+Nightmares
+Nocardiosis
+Nocturnal Leg Cramps
+Non Hodgkin s Lymphoma
+Non Small Cell Lung Cance
+Nonalcoholic Fatty Liver Disease
+Noninfectious Colitis
+Nonoccupational Exposure
+Not Listed Othe
+Obesity
+Obsessive Compulsive Disorde
+Obstructive Sleep Apnea Hypopnea Syndrome
+Occipital Neuralgia
+Ocular Rosacea
+Oligospermia
+Onychomycosis Fingernail
+Onychomycosis Toenail
+Oophorectomy
+Ophthalmic Surgery
+Opiate Adjunct
+Opiate Dependence
+Opiate Withdrawal
+Opioid Induced Constipation
+Opioid Overdose
+Oppositional Defiant Disorde
+Oral Thrush
+Oral and Dental Conditions
+Organ Transplant Rejection Prophylaxis
+Organ Transplant Rejection Reversal
+Osteoarthritis
+Osteolytic Bone Lesions of Multiple Myeloma
+Osteolytic Bone Metastases of Solid Tumors
+Osteoporosis
+Otitis Externa
+Otitis Media
+Ovarian Cance
+Ovarian Cysts
+Overactive Bladde
+Ovulation Induction
+Paget s Disease
+Pain
+Pain Feve
+Pancreatic Cance
+Pancreatic Exocrine Dysfunction
+Panic Disorde
+Paragonimus westermani Lung Fluke
+Paranoid Disorde
+Parkinson s Disease
+Parkinsonian Trem
+Parkinsonism
+Paroxysmal Supraventricular Tachycardia
+Patent Ductus Arteriosus
+Pathological Hypersecretory Conditions
+Pediatric Growth Hormone Deficiency
+Pelvic Inflammatory Disease
+Pemphigoid
+Pemphigus
+Peptic Ulce
+Percutaneous Coronary Intervention
+Performance Anxiety
+Perimenopausal Symptoms
+Period Pain
+Periodic Limb Movement Disorde
+Periodontitis
+Perioral Dermatitis
+Peripheral Arterial Disease
+Peripheral Neuropathy
+Peripheral T cell Lymphoma
+Peritonitis
+Persistent Depressive Disorde
+Pertussis
+Peyronie s Disease
+Pharyngitis
+Photoaging of the Skin
+Pinworm Infection Enterobius vermicularis
+Pityriasis rubra pilaris
+Plaque Psoriasis
+Platelet Aggregation Inhibition
+Pneumococcal Disease Prophylaxis
+Pneumonia
+Polycystic Ovary Syndrome
+Polycythemia Vera
+Porphyria
+Portal Hypertension
+Post Cholecystectomy Diarrhea
+Post Traumatic Stress Disorde
+Postherpetic Neuralgia
+Postmenopausal Symptoms
+Postoperative Increased Intraocular Pressure
+Postoperative Ocular Inflammation
+Postoperative Pain
+Postpartum Breast Pain
+Postpartum Depression
+Postural Orthostatic Tachycardia Syndrome
+Pre Exposure Prophylaxis
+Precocious Puberty
+Premature Lab
+Premature Ventricular Depolarizations
+Premenstrual Dysphoric Disorde
+Premenstrual Syndrome
+Prevention of Atherothrombotic Events
+Prevention of Bladder infection
+Prevention of Cardiovascular Disease
+Prevention of Dental Caries
+Prevention of Hypokalemia
+Prevention of Osteoporosis
+Prevention of Perinatal Group B Streptococcal Disease
+Prevention of Thromboembolism in Atrial Fibrillation
+Primary Hyperaldosteronism
+Primary Hyperaldosteronism Diagnosis
+Primary Immunodeficiency Syndrome
+Primary Nocturnal Enuresis
+Primary Ovarian Failure
+Progesterone Insufficiency
+Prostate Cance
+Prostatitis
+Prosthetic Heart Valves Mechanical Valves Thrombosis Prophylaxis
+Prosthetic Heart Valves Tissue Valves Thrombosis Prophylaxis
+Pruritus
+Pruritus of Partial Biliary Obstruction
+Pseudobulbar Affect
+Pseudogout Prophylaxis
+Pseudomembranous Colitis
+Pseudotumor Cerebri
+Psoriasis
+Psoriatic Arthritis
+Psychosis
+Pudendal Neuralgia
+Pulmonary Embolism
+Pulmonary Embolism First Event
+Pulmonary Embolism Recurrent Event
+Pulmonary Hypertension
+Pupillary Dilation
+Q Feve
+Rabies Prophylaxis
+Radionuclide Myocardial Perfusion Study
+Ramsay Hunt Syndrome
+Raynaud s Syndrome
+Reflex Sympathetic Dystrophy Syndrome
+Reiter s Syndrome
+Rejection Prophylaxis
+Renal Cell Carcinoma
+Renal Transplant
+Restless Legs Syndrome
+Reversal of Nondepolarizing Muscle Relaxants
+Reversal of Opioid Sedation
+Rheumatoid Arthritis
+Rhinitis
+Rhinorrhea
+Rosacea
+SIADH
+STD Prophylaxis
+Salivary Gland Cance
+Sarcoidosis
+Scabies
+Schilling Test
+Schistosoma japonicum
+Schizoaffective Disorde
+Schizophrenia
+Schnitzler Syndrome
+Sciatica
+Scleroderma
+Seasonal Affective Disorde
+Seasonal Allergic Conjunctivitis
+Seborrheic Dermatitis
+Secondary Cutaneous Bacterial Infections
+Secondary Hyperparathyroidism
+Sedation
+Seizure Prevention
+Seizures
+Sepsis
+Severe Mood Dysregulation
+Sexual Dysfunction SSRI Induced
+Shift Work Sleep Disorde
+Short Stature
+Short Stature for Age
+Sinus Symptoms
+Sinusitis
+Sjogren s Syndrome
+Skin Cance
+Skin Disinfection Preoperative
+Skin Rash
+Skin and Structure Infection
+Skin or Soft Tissue Infection
+Sleep Paralysis
+Small Bowel Bacterial Overgrowth
+Small Bowel or Pancreatic Fistula
+Small Fiber Neuropathy
+Smoking Cessation
+Social Anxiety Disorde
+Soft Tissue Sarcoma
+Solid Tumors
+Somatoform Pain Disorde
+Sore Throat
+Spondyloarthritis
+Spondylolisthesis
+Sporotrichosis
+Squamous Cell Carcinoma
+Status Epilepticus
+Still s Disease
+Stomach Cance
+Stomach Ulce
+Strabismus
+Strep Throat
+Streptococcal Infection
+Stress Ulcer Prophylaxis
+Strongyloidiasis
+Subarachnoid Hemorrhage
+Submental Fullness
+Sunburn
+Supraventricular Tachycardia
+Surgical Prophylaxis
+Swine Flu
+Syringomyelia
+Systemic Candidiasis
+Systemic Lupus Erythematosus
+Systemic Mastocytosis
+Systemic Sclerosis
+TSH Suppression
+Tardive Dyskinesia
+Temporomandibular Joint Disorde
+Tendonitis
+Testicular Cance
+Tetanus
+Thrombocythemia
+Thrombocytopenia
+Thromboembolic Stroke Prophylaxis
+Thyroid Cance
+Thyroid Suppression Test
+Thyrotoxicosis
+Tic Disorde
+Tinea Barbae
+Tinea Capitis
+Tinea Corporis
+Tinea Cruris
+Tinea Pedis
+Tinea Versicol
+Tinnitus
+Tonsillitis Pharyngitis
+Toothache
+Topical Disinfection
+Tourette s Syndrome
+Transient Ischemic Attack
+Transverse Myelitis
+Traveler s Diarrhea
+Trichomoniasis
+Trichotillomania
+Trigeminal Neuralgia
+Tuberculosis Active
+Tuberculosis Latent
+Tuberculosis Prophylaxis
+Turner s Syndrome
+Typhoid Feve
+Ulcerative Colitis
+Ulcerative Colitis Active
+Ulcerative Colitis Maintenance
+Ulcerative Proctitis
+Underactive Thyroid
+Undifferentiated Connective Tissue Disease
+Upper Limb Spasticity
+Upper Respiratory Tract Infection
+Urinary Incontinence
+Urinary Retention
+Urinary Tract Infection
+Urinary Tract Stones
+Urticaria
+Uterine Bleeding
+Uterine Fibroids
+Uveitis
+Vaginal Yeast Infection
+Varicella Zoste
+Varicose Veins
+Ventricular Arrhythmia
+Ventricular Fibrillation
+Ventricular Tachycardia
+Vertig
+Vitamin B Deficiency
+Vitamin D Deficiency
+Vitamin K Deficiency
+Vitamin Mineral Supplementation and Deficiency
+Vitamin Mineral Supplementation during Pregnancy Lactation
+Vulvodynia
+Warts
+Wegener s Granulomatosis
+Weight Loss
+Wilson s Disease
+Wolff Parkinson White Syndrome
+Women minoxidil
+Women oxybutynin
+Wound Cleansing
+Xerostomia
+Zollinger Ellison Syndrome
+acial Lipoatrophy
+acial Wrinkles
+actor IX Deficiency
+ailure to Thrive
+amilial Cold Autoinflammatory Syndrome
+amilial Mediterranean Feve
+atigue
+cal Segmental Glomerulosclerosis
+emale Infertility
+ge HCT amlodipine hydrochlorothiazide valsartan
+ge amlodipine valsartan
+ibrocystic Breast Disease
+ibromyalgia
+lic Acid Deficiency
+llicular Lymphoma
+m Pain Disorde
+mance Anxiety
+min
+min pioglitazone
+min rosiglitazone
+min saxagliptin
+min sitagliptin
+mist
+moterol
+moterol mometasone
+mulation phenylephrine
+t Care
+t Pac with Cyclobenzaprine cyclobenzaprine
+tic mycophenolic acid
+unctional Gastric Disorde
+ungal Infection Prophylaxis
+ungal Pneumonia
+von Willebrand s Disease
+zen Shoulde
