@@ -8,12 +8,12 @@ Extract (chemical name, formula, property-value-unit) from XML file
 Predict review ratings of pharmacy drugs
 * NLP | Classification | Python
 
-### CEMENT
+### CONCRETE
 Predict compressive strength of a concrete mixture
 * Physical Sciences | Regression | SQL / Python
 
 ### ENERGY DISAGGREGATION USING F-HMM
-_Non-Intrusive Load Monitoring (NILM) / Appliance Level Load Monitoring_
+Non-Intrusive Load Monitoring (NILM) / Appliance Level Load Monitoring
 Modeling energy consumption assuming a morkov process
 * Energy Data | HMM | Time-series | Supervised Learning | Python
 
