@@ -2,24 +2,28 @@
 
 ### CHEMBOX
 Extract (chemical name, formula, property-value-unit) from XML file
-* Data Wrangling | Regex | Python
+* Data Wrangling | Regex
+
+### AB Tests
+Sample notebooks useful for evaluating A/B Tests
+* Experimentation
 
 ### DRUG REVIEW
 Predict review ratings of pharmacy drugs
-* NLP | Classification | Python
+* NLP | Classification
 
 ### CONCRETE
 Predict compressive strength of a concrete mixture
-* Physical Sciences | Regression | SQL / Python
+* Physical Sciences | Regression
 
 ### ENERGY DISAGGREGATION USING F-HMM
 Non-Intrusive Load Monitoring (NILM) / Appliance Level Load Monitoring
 Modeling energy consumption assuming a morkov process
-* Energy Data | HMM | Time-series | Supervised Learning | Python
+* Energy Data | HMM | Time-series | Supervised Learning
 
 ### NFL WR CLUSTERS
 Determining how to match elite WR production with a combination of lower level / cheaper talent
-* Web Scraping | Clustering | Python
+* Web Scraping | Clustering
 
 ### CUSTOMER CHURN
-* Telecom Data | Classification | Python
+* Telecom Data | Classification
