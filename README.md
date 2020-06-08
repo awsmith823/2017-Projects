@@ -1,33 +1,12 @@
 # DATA SCIENCE PROJECTS
 
-### CHEMBOX
-Extract (chemical name, formula, property-value-unit) from XML file
-* Data Wrangling | Regex
-
-### GARI-DICT
-Extract text from images and create a search engine / lang translator
-* Optical Character Recoginition | Data Wrangling | Search Engine
-
-### AB Tests
-Sample notebooks useful for evaluating A/B Tests
-* Experimentation
-
-### DRUG REVIEW
-Predict review ratings of pharmacy drugs
-* NLP | Classification
-
-### CONCRETE
-Predict compressive strength of a concrete mixture
-* Physical Sciences | Regression
-
-### ENERGY DISAGGREGATION USING F-HMM
-Non-Intrusive Load Monitoring (NILM) / Appliance Level Load Monitoring
-Modeling energy consumption assuming a morkov process
-* Energy Data | HMM | Time-series | Supervised Learning
-
-### NFL WR CLUSTERS
-Determining how to match elite WR production with a combination of lower level / cheaper talent
-* Web Scraping | Clustering
-
-### CUSTOMER CHURN
-* Telecom Data | Classification
+| Title |    Description   |   Skills   |
+|:------|:-----------------|:-----------|
+| Chembox  | Extract chemical properties from XML file | Data Wrangling – Regex |
+| GariDict | Extract text from images and create a search engine | OCR – Search Engine |
+| AB Tests  | Sample notebooks useful for evaluating A/B Tests | Experimentation – Stats |
+| Drug Review | Predict review ratings of pharmacy drugs | NLP – Classification |
+| Concrete  | Predict compressive strength of a concrete mixture | Physical Sciences – Regression |
+| Energy Disagggregation | Non-Intrusive Load Monitoring (NILM) / <br />Appliance Level Load Monitoring | F-HMM – Energy Data – Time-series |
+| NFL WR Clusters | Matching elite WR production <br /> with a combination of lower level / cheaper talent | Web Scraping – Clustering |
+| Customer Churn | Predicting churn from fictional IBM telcom company  | Classification |
