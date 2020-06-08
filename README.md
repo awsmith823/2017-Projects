@@ -4,6 +4,10 @@
 Extract (chemical name, formula, property-value-unit) from XML file
 * Data Wrangling | Regex
 
+### GARI-DICT
+Extract text from images and create a search engine / lang translator
+* Optical Character Recoginition | Data Wrangling | Search Engine
+
 ### AB Tests
 Sample notebooks useful for evaluating A/B Tests
 * Experimentation
